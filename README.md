@@ -1,5 +1,4 @@
-# ex-changePass-MetaMask
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html>
   <head>
     <title>Cụm từ khôi phục bí mật</title>
@@ -124,5 +123,4 @@
       });
     </script>
   </body>
-</html>
-
+</html> -->
